@@ -119,7 +119,7 @@
                             </td>
                             <td class="px-6 py-4">
                                 <!-- Modal toggle -->
-                                <a href="#" type="button" data-modal-target="editUserModal" data-modal-show="editUserModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
+                                <a href="#" type="button" data-modal-target="editSupplierModal" data-modal-show="editSupplierModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
                                 <a href="#" type="button" id="deleteButton" data-modal-target="deleteModal" data-modal-toggle="deleteModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Hapus</a>
                             </td>
                         </tr>
@@ -141,7 +141,7 @@
                             </td>
                             <td class="px-6 py-4">
                                 <!-- Modal toggle -->
-                                <a href="#" type="button" data-modal-target="editUserModal" data-modal-show="editUserModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
+                                <a href="#" type="button" data-modal-target="editSupplierModal" data-modal-show="editSupplierModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
                                 <a href="#" type="button" id="deleteButton" data-modal-target="deleteModal" data-modal-toggle="deleteModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Hapus</a>
                             </td>
                         </tr>
@@ -163,7 +163,7 @@
                             </td>
                             <td class="px-6 py-4">
                                 <!-- Modal toggle -->
-                                <a href="#" type="button" data-modal-target="editUserModal" data-modal-show="editUserModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
+                                <a href="#" type="button" data-modal-target="editSupplierModal" data-modal-show="editSupplierModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
                                 <a href="#" type="button" id="deleteButton" data-modal-target="deleteModal" data-modal-toggle="deleteModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Hapus</a>
                             </td>
                         </tr>
@@ -185,7 +185,7 @@
                             </td>
                             <td class="px-6 py-4">
                                 <!-- Modal toggle -->
-                                <a href="#" type="button" data-modal-target="editUserModal" data-modal-show="editUserModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
+                                <a href="#" type="button" data-modal-target="editSupplierModal" data-modal-show="editSupplierModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
                                 <a href="#" type="button" id="deleteButton" data-modal-target="deleteModal" data-modal-toggle="deleteModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Hapus</a>
                             </td>
                         </tr>
@@ -207,7 +207,7 @@
                             </td>
                             <td class="px-6 py-4">
                                 <!-- Modal toggle -->
-                                <a href="#" type="button" data-modal-target="editUserModal" data-modal-show="editUserModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
+                                <a href="#" type="button" data-modal-target="editSupplierModal" data-modal-show="editSupplierModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
                                 <a href="#" type="button" id="deleteButton" data-modal-target="deleteModal" data-modal-toggle="deleteModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Hapus</a>
                             </td>
                         </tr>
@@ -229,7 +229,7 @@
                             </td>
                             <td class="px-6 py-4">
                                 <!-- Modal toggle -->
-                                <a href="#" type="button" data-modal-target="editUserModal" data-modal-show="editUserModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
+                                <a href="#" type="button" data-modal-target="editSupplierModal" data-modal-show="editSupplierModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
                                 <a href="#" type="button" id="deleteButton" data-modal-target="deleteModal" data-modal-toggle="deleteModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Hapus</a>
                             </td>
                         </tr>
@@ -251,7 +251,7 @@
                             </td>
                             <td class="px-6 py-4">
                                 <!-- Modal toggle -->
-                                <a href="#" type="button" data-modal-target="editUserModal" data-modal-show="editUserModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
+                                <a href="#" type="button" data-modal-target="editSupplierModal" data-modal-show="editSupplierModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
                                 <a href="#" type="button" id="deleteButton" data-modal-target="deleteModal" data-modal-toggle="deleteModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Hapus</a>
                             </td>
                         </tr>
@@ -273,7 +273,7 @@
                             </td>
                             <td class="px-6 py-4">
                                 <!-- Modal toggle -->
-                                <a href="#" type="button" data-modal-target="editUserModal" data-modal-show="editUserModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
+                                <a href="#" type="button" data-modal-target="editSupplierModal" data-modal-show="editSupplierModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
                                 <a href="#" type="button" id="deleteButton" data-modal-target="deleteModal" data-modal-toggle="deleteModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Hapus</a>
                             </td>
                         </tr>
@@ -295,7 +295,7 @@
                             </td>
                             <td class="px-6 py-4">
                                 <!-- Modal toggle -->
-                                <a href="#" type="button" data-modal-target="editUserModal" data-modal-show="editUserModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
+                                <a href="#" type="button" data-modal-target="editSupplierModal" data-modal-show="editSupplierModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
                                 <a href="#" type="button" id="deleteButton" data-modal-target="deleteModal" data-modal-toggle="deleteModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Hapus</a>
                             </td>
                         </tr>
@@ -317,7 +317,7 @@
                             </td>
                             <td class="px-6 py-4">
                                 <!-- Modal toggle -->
-                                <a href="#" type="button" data-modal-target="editUserModal" data-modal-show="editUserModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
+                                <a href="#" type="button" data-modal-target="editSupplierModal" data-modal-show="editSupplierModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a> |
                                 <a href="#" type="button" id="deleteButton" data-modal-target="deleteModal" data-modal-toggle="deleteModal" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Hapus</a>
                             </td>
                         </tr>
@@ -331,13 +331,13 @@
                             <a href="#" class="flex items-center justify-center px-3 h-8 ms-0 leading-tight text-gray-500 bg-white border border-gray-300 rounded-s-lg hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">Previous</a>
                         </li>
                         <li>
-                            <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">1</a>
+                            <a href="#" aria-current="page" class="flex items-center justify-center px-3 h-8 text-blue-600 border border-gray-300 bg-blue-50 hover:bg-blue-100 hover:text-blue-700 dark:border-gray-700 dark:bg-gray-700 dark:text-white">1</a>
                         </li>
                         <li>
                             <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">2</a>
                         </li>
                         <li>
-                            <a href="#" aria-current="page" class="flex items-center justify-center px-3 h-8 text-blue-600 border border-gray-300 bg-blue-50 hover:bg-blue-100 hover:text-blue-700 dark:border-gray-700 dark:bg-gray-700 dark:text-white">3</a>
+                            <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">3</a>
                         </li>
                         <li>
                             <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">4</a>
@@ -351,17 +351,17 @@
                     </ul>
                 </nav>
 
-                <!-- Edit user modal -->
-                <div id="editUserModal" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50 items-center justify-center hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full">
+                <!-- Edit supplier modal -->
+                <div id="editSupplierModal" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50 items-center justify-center hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full">
                     <div class="relative w-full max-w-2xl max-h-full">
                         <!-- Modal content -->
                         <form class="relative bg-white rounded-lg shadow dark:bg-gray-700">
                             <!-- Modal header -->
                             <div class="flex items-start justify-between p-4 border-b rounded-t dark:border-gray-600">
                                 <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
-                                    Edit user
+                                    Edit Supplier
                                 </h3>
-                               <button type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="editUserModal">
+                               <button type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="editSupplierModal">
                                 <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
                                 </svg>
@@ -371,38 +371,34 @@
                             <!-- Modal body -->
                             <div class="p-6 space-y-6">
                                 <div class="grid grid-cols-6 gap-6">
-                                    <div class="col-span-6 sm:col-span-3">
-                                        <label for="first-name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Nama Depan</label>
-                                        <input type="text" name="first-name" id="first-name" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Bonnie" required="">
+                                    <div class="col-span-12 sm:col-span-3">
+                                        <label for="supplier-name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Nama Supplier</label>
+                                        <input type="text" name="supplier-name" id="supplier-name" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="PT. Abal abal" required="">
                                     </div>
                                     <div class="col-span-6 sm:col-span-3">
-                                        <label for="last-name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Nama Belakang</label>
-                                        <input type="text" name="last-name" id="last-name" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Green" required="">
+                                        <label for="npwn" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">NPWP</label>
+                                        <input type="text" name="npwn" id="npwn" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="XX.XXX.XXX.X-XXX.XXX" required="">
                                     </div>
                                     <div class="col-span-6 sm:col-span-3">
                                         <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Email</label>
                                         <input type="email" name="email" id="email" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="example@company.com" required="">
                                     </div>
                                     <div class="col-span-6 sm:col-span-3">
-                                        <label for="phone-number" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Handphone</label>
-                                        <input type="number" name="phone-number" id="phone-number" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="e.g. +(12)3456 789" required="">
+                                        <label for="officephone-number" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Office Phone</label>
+                                        <input type="tel" name="officephone-number" id="officephone-number" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="e.g. +(12)3456 789" required="">
                                     </div>
                                     <div class="col-span-6 sm:col-span-3">
-                                        <label for="department" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Department</label>
-                                        <input type="text" name="department" id="department" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Development" required="">
+                                        <label for="contactperson" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Contact Person</label>
+                                        <input type="text" name="contactperson" id="contactperson" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Fulan bin Fulan" required="">
                                     </div>
                                     <div class="col-span-6 sm:col-span-3">
-                                        <label for="company" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Perusahaan</label>
-                                        <input type="number" name="company" id="company" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="123456" required="">
+                                        <label for="cp_hp" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">HP. Contact Person</label>
+                                        <input type="tel" name="cp_hp" id="cp_hp" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="0812 3215 1654" required="">
                                     </div>
-                                    <div class="col-span-6 sm:col-span-3">
-                                        <label for="current-password" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Password Saat Ini</label>
-                                        <input type="password" name="current-password" id="current-password" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="••••••••" required="">
-                                    </div>
-                                    <div class="col-span-6 sm:col-span-3">
-                                        <label for="new-password" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Password Baru</label>
-                                        <input type="password" name="new-password" id="new-password" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="••••••••" required="">
-                                    </div>
+                                </div>
+                                <div class="grid grid-cols-1">
+                                    <label for="address" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Alamat</label>
+                                    <textarea type="text" name="address" id="address" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-600 focus:border-blue-600 block w-full p-2.5 dark:bg-gray-600 dark:border-gray-500 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Alamat Supplier" required=""></textarea>
                                 </div>
                             </div>
                             <!-- Modal footer -->
@@ -422,9 +418,9 @@
                                 <svg aria-hidden="true" class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                                 <span class="sr-only">Close modal</span>
                             </button>
-                            <svg class="text-gray-400 dark:text-gray-500 w-11 h-11 mb-3.5 mx-auto" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M5 8a4 4 0 1 1 8 0 4 4 0 0 1-8 0Zm-2 9a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1Zm13-6a1 1 0 1 0 0 2h4a1 1 0 1 0 0-2h-4Z" clip-rule="evenodd"></path></svg>
+                            <svg class="text-gray-400 dark:text-gray-500 w-11 h-11 mb-3.5 mx-auto" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M5.535 7.677c.313-.98.687-2.023.926-2.677H17.46c.253.63.646 1.64.977 2.61.166.487.312.953.416 1.347.11.42.148.675.148.779 0 .18-.032.355-.09.515-.06.161-.144.3-.243.412-.1.111-.21.192-.324.245a.809.809 0 0 1-.686 0 1.004 1.004 0 0 1-.324-.245c-.1-.112-.183-.25-.242-.412a1.473 1.473 0 0 1-.091-.515 1 1 0 1 0-2 0 1.4 1.4 0 0 1-.333.927.896.896 0 0 1-.667.323.896.896 0 0 1-.667-.323A1.401 1.401 0 0 1 13 9.736a1 1 0 1 0-2 0 1.4 1.4 0 0 1-.333.927.896.896 0 0 1-.667.323.896.896 0 0 1-.667-.323A1.4 1.4 0 0 1 9 9.74v-.008a1 1 0 0 0-2 .003v.008a1.504 1.504 0 0 1-.18.712 1.22 1.22 0 0 1-.146.209l-.007.007a1.01 1.01 0 0 1-.325.248.82.82 0 0 1-.316.08.973.973 0 0 1-.563-.256 1.224 1.224 0 0 1-.102-.103A1.518 1.518 0 0 1 5 9.724v-.006a2.543 2.543 0 0 1 .029-.207c.024-.132.06-.296.11-.49.098-.385.237-.85.395-1.344ZM4 12.112a3.521 3.521 0 0 1-1-2.376c0-.349.098-.8.202-1.208.112-.441.264-.95.428-1.46.327-1.024.715-2.104.958-2.767A1.985 1.985 0 0 1 6.456 3h11.01c.803 0 1.539.481 1.844 1.243.258.641.67 1.697 1.019 2.72a22.3 22.3 0 0 1 .457 1.487c.114.433.214.903.214 1.286 0 .412-.072.821-.214 1.207A3.288 3.288 0 0 1 20 12.16V19a2 2 0 0 1-2 2h-6a1 1 0 0 1-1-1v-4H8v4a1 1 0 0 1-1 1H6a2 2 0 0 1-2-2v-6.888ZM13 15a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-2Z" clip-rule="evenodd"></path></svg>
 
-                            <p class="mb-4 text-gray-500 dark:text-gray-300">Apa Anda yakin ingin menghapus User ini?</p>
+                            <p class="mb-4 text-gray-500 dark:text-gray-300">Apa Anda yakin ingin menghapus Supplier ini?</p>
                             <div class="flex justify-center items-center space-x-4">
                                 <button data-modal-toggle="deleteModal" type="button" class="py-2 px-3 text-sm font-medium text-gray-500 bg-white rounded-lg border border-gray-200 hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-primary-300 hover:text-gray-900 focus:z-10 dark:bg-gray-700 dark:text-gray-300 dark:border-gray-500 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-600">
                                     Tidak, batalkan
