@@ -15,4 +15,5 @@ Route::get('/master-anggota', function () {return view('master-anggota');});
 Route::get('/master-supplier', function () {return view('master-supplier');});
 Route::get('/master-rak', function () {return view('master-rak');});
 Route::get('/master-merek', function () {return view('master-merek');});
+Route::get('/trx-peminjaman', function () {return view('trx-peminjaman');});
 Route::get('/test', function () {return view('test');});

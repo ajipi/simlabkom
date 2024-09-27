@@ -49,5 +49,10 @@ export default {
                 'Noto Color Emoji'
             ]
         }
-    }
+    },
+    plugins: [
+        require('flowbite/plugin')({
+            charts: true,
+        })
+    ]
 }
