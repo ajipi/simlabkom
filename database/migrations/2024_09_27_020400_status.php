@@ -11,14 +11,10 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('inventaris', function (Blueprint $table) {
+        Schema::create('status', function (Blueprint $table) {
             $table->id();
-            $table->id_cat();
-            $table->nama_inventaris();
-            $table->no_urut_inv();
-            $table->merek();
-            $table->deskripsi();
-            // $table->timestamps();
+            $table->string('status')->unique();
+            $table->timestamps();
         });
     }
 
@@ -27,6 +23,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('inventaris');
+        Schema::dropIfExists('status');
     }
 };
